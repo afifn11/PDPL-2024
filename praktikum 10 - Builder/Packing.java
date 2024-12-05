@@ -1,0 +1,3 @@
+interface Packing {
+    String pack();
+}
